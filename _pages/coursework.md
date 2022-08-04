@@ -1,10 +1,9 @@
----
 permalink: /coursework/
 title: "Coursework"
 excerpt: ""
 author_profile: true
 redirect_from:
----
+
 ## Machine Learning and Statistics
 
 **EN.553.741: Machine Learning II** - Johns Hopkins University (Spring 2022) <br>
