@@ -1,8 +1,10 @@
+---
 permalink: /coursework/
 title: "Coursework"
 excerpt: ""
 author_profile: true
 redirect_from:
+---
 
 ## Machine Learning and Statistics
 
