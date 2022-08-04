@@ -6,56 +6,88 @@ author_profile: true
 redirect_from:
 ---
 
-**EN.553.797: Introduction to Control Theory and Optimal Control**
+## Machine Learning and Statistics
 
-**EN.553.741: Machine Learning II**
+**EN.553.739: Statistical Pattern Recognition Theory and Methods** - Johns Hopkins University (Spring 2022) <br>
+Topics in the theory, methods, and applications of machine learning from an explicitly statistical perspective.
 
-**EN.553.740: Machine Learning I**
+**EN.553.741: Machine Learning II** - Johns Hopkins University (Spring 2022) <br>
+This course is the second part of a two-semester sequence that focuses on theoretical and practical aspects of statistical learning. The course will have two distinct parts. The first one will discuss some fundamentals of statistical learning theory, including some concentration inequality, generalization bounds and VC dimension. The second one will introduce problems and algorithms for unsupervised data analysis, including dimension reduction, manifold learning and clustering.
 
-**EN.553.739: Statistical Pattern Recognition Theory and Methods**
+**EN.553.740: Machine Learning I** - Johns Hopkins University (Fall 2021) <br>
+This course is the first part of a two-semester sequence that focuses on theoretical and practical aspects of statistical learning. After introducing background material on inner-product spaces, reproducing kernels and on optimization, the course discusses fundamental concepts of machine learning (such as generalization error, Bayes estimators and the bias vs. variance dilemma) and studies a collection of learning algorithms for classification and regression. The topics that are discussed include linear and kernel regression, support vector machines, lasso, logistic regression, decision trees and neural networks.
 
-**EN.553.730: Statistical Theory**
+**EN.553.730: Statistical Theory** - Johns Hopkins University (Fall 2021) <br>
+The fundamentals of mathematical statistics will be covered. Topics include: distribution theory for statistics of normal samples, exponential statistical models, the sufficiency principle, least squares estimation, maximum likelihood estimation, uniform minimum variance unbiased estimation, hypothesis testing, the Neyman-Pearson lemma, likelihood ratio procedures, the general linear model, the Gauss-Markov theorem, simultaneous inference, decision theory, Bayes and minimax procedures, chi-square methods, goodness-of-fit tests, and nonparametric and robust methods.
 
-**EN.553.701: Real Analysis**
+**ISE 365: Applied Data Mining** - Lehigh University (Spring 2021) <br>
+Introduction to the data mining process including business problem understanding, data understanding and preparation, modeling and evaluation, and model deployment. Emphasis on hands-on data preparation and modeling using techniques from statistics, artificial intelligence, such as regression, decision trees, neural networks, and clustering. A number of application areas are explored.
 
-**EN.553.650: Computational Molecular Medicine**
+## Applications to Medicine and Biology
 
-**EN.580.631: Introduction to Computational Medicine**
+**EN.580.631: Introduction to Computational Medicine** <br>
+Computational medicine is an emerging discipline in which computer models of disease are developed, constrained using data measured from individual patients, and then applied to deliver precision health care. This course will cover computational anatomy. Students will learn how to: model anatomies using magnetic resonance imaging data; compare anatomies via mappings onto anatomical atlases; discover anatomical biomarkers of disease; analyze changes in the connectivity of anatomies in disease.
 
-**MATH 463: Advanced Probability** <br>
-Measure theoretic foundations; random variables, integration in a measure space, expectations; convergence of random variables and probability measures; conditional expectations; characteristic functions; sums of random variables, limit theorems.
+**EN.553.650: Computational Molecular Medicine** <br>
+Computational systems biology has emerged as the dominant framework for analyzing high-dimensional “omics” data in order to uncover the relationships among molecules, networks and disease. In particular, many of the core methodologies are based on statistical modeling, including machine learning, stochastic processes and statistical inference. We will cover the key aspects of this methodology, including measuring associations, testing multiple hypotheses, and learning predictors, Markov chains and graphical models. In addition, by studying recent important articles in cancer systems biology, we will illustrate how this approach enhances our ability to annotate genomes, discover molecular disease networks, detect disease, predict clinical outcomes, and characterize disease progression.
 
-**MATH 322: Methods of Applied Analysis I** <br>
-Fourier series, eigenfunction expansions, Sturm–Liouville problems, Fourier integrals and their application to partial differential equations; special functions. Emphasis is on a wide variety of formal applications rather than logical development.
+**MATH 371: Readings in Mathematical Biology** <br>
+Phase space analysis of higher-order systems; equilibrium points, limit cycles, linearization, stability analysis; Predator-prey models, Poincare-Bendixson theorem, Bendixson criterion; perturbation analysis; Poincare maps; Bifurcations and chaotic dynamics; Routh Hurwitz Criterion; Survival functions; applications to epidemiology.
 
-**MATH 310: Random Processes and Applications** <br>
-Theory and applications of stochastic processes. Limit theorems, introduction to random walks, Markov chains, Poisson processes, birth and death processes, and Brownian motion. Applications to financial mathematics, biology, business and engineering.
+**HMS 316: Social Epidemiology** <br>
+Social epidemiology is the study of the distribution and social determinants of health and disease in human populations. This course introduces the basic principles of epidemiological study design, analysis and interpretation, covering topics such as how a disease spreads across populations and how public health interventions can help control or reduce the spread of disease. This course also reviews epidemiology as a social science by reviewing the social causes and consequences of health.
 
-**MATH 428: Fields And Modules** <br>
-Field theory, including an introduction to Galois theory; the theory of modules, including tensor products and classical algebras.
+## Analysis and Probability
 
-**MATH 402: Real Analysis II** <br>
-Metric spaces; introduction to Banach and Hilbert space theory; Fourier series and Fejer operators; general measure and integration theory, Radon–Nikodym and Riesz representation and theorems; Lebesgue–Stieltjes integral.
+**EN.553.797: Introduction to Control Theory and Optimal Control** <br>
+A control system is a dynamical system on which one can act through a parameter that can be chosen freely at any point in time. In this class, we will be interested in two main problems. The first one is controllability, which studies conditions for the existence of controls allowing an initial point to be driven to any other point. The second one is optimal control, in which we will study methods to minimize a certain cost over all possible controls, possibly with endpoint constraints.
 
-**MATH 371: Readings in Mathematical Biology**
-
-**MATH 350: Introduction to Differential Geometry** <br>
-Local and global differential geometry of curves and surfaces in Euclidean 3-space; Frenet formulas for curves, regular surfaces, first fundamental form, Gauss map, second fundamental form, curvatures for curves and surfaces and their relations, minimal surfaces, the Gauss-Bonnet theorem, selected special topics and applications, such as hypersurfaces in Euclidean (n+1)-space, Levi-Civita connection, geodesics, parallel transport, Riemannian curvature tensor, etc.
-
-**MATH 316: Complex Analysis** <br>
-Concept of analytic function from the points of view of the Cauchy–Riemann equations, power series, complex integration, and conformal mapping.
+**EN.553.701: Real Analysis** <br>
+Fundamental topics in real analysis, such as, Set Theory, The Topology of Euclidean Space, Continuous Mappings, Uniform Convergence, Differentiable Mappings, Inverse & Implicit Function Theorems, Integration Theory, Fourier Series, and Basics of Differential Equations.
 
 **MATH 401: Real Analysis I** <br>
 Set theory, real numbers; introduction to measures, Lebesgue measure; integration, general convergence theorems; differentiation, functions of bounded variation, absolute continuity; Lp spaces.
 
-**MATH 327: Groups and Rings** <br>
-An intensive study of the concepts of group theory including the Sylow theorems, and of ring theory including unique factorization domains and polynomial rings.
+**MATH 402: Real Analysis II** <br>
+Metric spaces; introduction to Banach and Hilbert space theory; Fourier series and Fejer operators; general measure and integration theory, Radon–Nikodym and Riesz representation and theorems; Lebesgue–Stieltjes integral.
+
+**MATH 316: Complex Analysis** <br>
+Concept of analytic function from the points of view of the Cauchy–Riemann equations, power series, complex integration, and conformal mapping.
+
+**MATH 322: Methods of Applied Analysis I** <br>
+Fourier series, eigenfunction expansions, Sturm–Liouville problems, Fourier integrals and their application to partial differential equations; special functions. Emphasis is on a wide variety of formal applications rather than logical development.
+
+**MATH 309: Probability with Applications and Simulations** <br>
+Foundations of Probability; Random Variables; Probability Models; Expectations and Moment Generating Functions; Joint and Conditional Distributions; Functions of Random Variables. Introduction to fundamental ideas and techniques of stochastic modeling, with an emphasis on the applications. Monte Carlo simulation.
+
+**MATH 463: Advanced Probability** <br>
+Measure theoretic foundations; random variables, integration in a measure space, expectations; convergence of random variables and probability measures; conditional expectations; characteristic functions; sums of random variables, limit theorems.
+
+**MATH 310: Random Processes and Applications** <br>
+Theory and applications of stochastic processes. Limit theorems, introduction to random walks, Markov chains, Poisson processes, birth and death processes, and Brownian motion. Applications to financial mathematics, biology, business and engineering.
+
+**MATH 350: Introduction to Differential Geometry** <br>
+Local and global differential geometry of curves and surfaces in Euclidean 3-space; Frenet formulas for curves, regular surfaces, first fundamental form, Gauss map, second fundamental form, curvatures for curves and surfaces and their relations, minimal surfaces, the Gauss-Bonnet theorem, selected special topics and applications, such as hypersurfaces in Euclidean (n+1)-space, Levi-Civita connection, geodesics, parallel transport, Riemannian curvature tensor, etc.
 
 **ISE 417: Nonlinear Optimization** <br>
 Advanced topics in mathematical optimization with emphasis on modeling and analysis of nonlinear problems. Convex analysis, unconstrained and constrained optimization, duality theory, Lagrangian relaxation, and methods for solving nonlinear optimization problems, including descent methods, Newton methods, conjugate gradient methods, and penalty and barrier methods.
 
-**ISE 365: Applied Data Mining** <br>
-Introduction to the data mining process including business problem understanding, data understanding and preparation, modeling and evaluation, and model deployment. Emphasis on hands-on data preparation and modeling using techniques from statistics, artificial intelligence, such as regression, decision trees, neural networks, and clustering. A number of application areas are explored.
+**MATH 230: Numerical Methods** <br>
+Representation of numbers and rounding error; polynomial and spline interpolation; numerical differentiation and integration; numerical solution of nonlinear systems; numerical solution of initial and boundary value problems; Monte Carlo methods.
 
-**HMS 316: Social Epidemiology** <br>
-Social epidemiology is the study of the distribution and social determinants of health and disease in human populations. This course introduces the basic principles of epidemiological study design, analysis and interpretation, covering topics such as how a disease spreads across populations and how public health interventions can help control or reduce the spread of disease. This course also reviews epidemiology as a social science by reviewing the social causes and consequences of health.
+## Other Topics in Mathematics
+
+**MATH 428: Fields And Modules** <br>
+Field theory, including an introduction to Galois theory; the theory of modules, including tensor products and classical algebras.
+
+**MATH 327: Groups and Rings** <br>
+An intensive study of the concepts of group theory including the Sylow theorems, and of ring theory including unique factorization domains and polynomial rings.
+
+**MATH 243: Algebra** <br>
+Introduction to basic concepts of modern algebra: groups, rings, and fields.
+
+**MATH 252: Introduction to Combinatorics and Graph Theory** <br>
+Topics in combinatorics and graph theory chosen to introduce the subjects and some of their common proof techniques. Sequences and recursive formulas; counting formulas; bijections; inclusion/exclusion; the Pigeonhole Principle; generating functions; equivalence relations. Graph theory topics include trees, connectivity, traversability, matching and coloring.
+
+**MATH 242: Linear Algebra** <br>
+An introduction to the study of vector spaces and linear transformations, with emphasis on mathematical rigor.
