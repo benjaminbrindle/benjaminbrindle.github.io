@@ -75,6 +75,9 @@ Foundations of Probability; Random Variables; Probability Models; Expectations a
 **MATH 230: Numerical Methods** - Lehigh University (Fall 2019) <br>
 Representation of numbers and rounding error; polynomial and spline interpolation; numerical differentiation and integration; numerical solution of nonlinear systems; numerical solution of initial and boundary value problems; Monte Carlo methods.
 
+**MATH 319: Introduction to Differential Equations** - Lehigh University (Spring 2019) <br>
+Homogeneous and non-homogeneous linear differential equations, existence and uniqueness theorems, Gronwall's inequality; systems of first order linear differential equations; autonomous first-order systems: critical points, stability, bifurcation; series and periodic solutions, Fourier series and their convergence; introduction to numerical simulation methods.
+
 ## Other Topics in Mathematics
 
 **MATH 428: Fields And Modules** - Lehigh University (Spring 2020) <br>
