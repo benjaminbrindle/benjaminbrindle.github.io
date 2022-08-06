@@ -9,16 +9,16 @@ redirect_from:
 ## Machine Learning and Statistics
 
 **EN.553.741: Machine Learning II** - Johns Hopkins University (Spring 2022) <br>
-This course is the second part of a two-semester sequence that focuses on theoretical and practical aspects of statistical learning. The course will have two distinct parts. The first one will discuss some fundamentals of statistical learning theory, including some concentration inequality, generalization bounds and VC dimension. The second one will introduce problems and algorithms for unsupervised data analysis, including dimension reduction, manifold learning and clustering.
+Statistical learning theory, including some concentration inequality, generalization bounds and VC dimension. Problems and algorithms for unsupervised data analysis, including dimension reduction, manifold learning and clustering.
 
 **EN.553.739: Statistical Pattern Recognition Theory and Methods** - Johns Hopkins University (Spring 2022) <br>
 Topics in the theory, methods, and applications of machine learning from an explicitly statistical perspective.
 
 **EN.553.740: Machine Learning I** - Johns Hopkins University (Fall 2021) <br>
-This course is the first part of a two-semester sequence that focuses on theoretical and practical aspects of statistical learning. After introducing background material on inner-product spaces, reproducing kernels and on optimization, the course discusses fundamental concepts of machine learning (such as generalization error, Bayes estimators and the bias vs. variance dilemma) and studies a collection of learning algorithms for classification and regression. The topics that are discussed include linear and kernel regression, support vector machines, lasso, logistic regression, decision trees and neural networks.
+Fundamental concepts of machine learning (such as generalization error, Bayes estimators and the bias vs. variance dilemma). Studies a collection of learning algorithms for classification and regression. Linear and kernel regression, support vector machines, lasso, logistic regression, decision trees and neural networks. Includes background material on inner-product spaces, reproducing kernels and on optimization.
 
 **EN.553.730: Statistical Theory** - Johns Hopkins University (Fall 2021) <br>
-The fundamentals of mathematical statistics will be covered. Topics include: distribution theory for statistics of normal samples, exponential statistical models, the sufficiency principle, least squares estimation, maximum likelihood estimation, uniform minimum variance unbiased estimation, hypothesis testing, the Neyman-Pearson lemma, likelihood ratio procedures, the general linear model, the Gauss-Markov theorem, simultaneous inference, decision theory, Bayes and minimax procedures, chi-square methods, goodness-of-fit tests, and nonparametric and robust methods.
+Distribution theory for statistics of normal samples, exponential statistical models, the sufficiency principle, least squares estimation, maximum likelihood estimation, uniform minimum variance unbiased estimation, hypothesis testing, the Neyman-Pearson lemma, likelihood ratio procedures, the general linear model, the Gauss-Markov theorem, simultaneous inference, decision theory, Bayes and minimax procedures, chi-square methods, goodness-of-fit tests, and nonparametric and robust methods.
 
 **ISE 365: Applied Data Mining** - Lehigh University (Spring 2021) <br>
 Introduction to the data mining process including business problem understanding, data understanding and preparation, modeling and evaluation, and model deployment. Emphasis on hands-on data preparation and modeling using techniques from statistics, artificial intelligence, such as regression, decision trees, neural networks, and clustering. A number of application areas are explored.
