@@ -80,6 +80,9 @@ Homogeneous and non-homogeneous linear differential equations, existence and uni
 
 ## Other Topics in Mathematics
 
+**EN.553.795: Matrix Analysis and Linear Algebra II** - Johns Hopkins University (Spring 2023) <br>
+Additional topics in linear algebra, with emphasis on ideas useful in analysis, economics, statistics, control theory, and numerical analysis. Singular value inequalities, perturbation of singular subspaces and eigenspaces, field of values, inertia, Kronecker and Hadamard products, matrix equations, matrix functions.
+
 **MATH 428: Fields And Modules** - Lehigh University (Spring 2020) <br>
 Field theory, including an introduction to Galois theory; the theory of modules, including tensor products and classical algebras.
 
