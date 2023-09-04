@@ -26,11 +26,11 @@ redirect_from:
 
 ## Tutor
 
-### Group
+### <ins> Group </ins>
 
 **MATH 022: Calculus II** - Lehigh University (Fall 2019 – Spring 2021)
 
-### Private
+### <ins> Private </ins>
 
 **MATH 023: Calculus III** - Lehigh University (Fall 2020)
 
