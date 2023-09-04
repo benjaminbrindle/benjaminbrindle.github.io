@@ -36,8 +36,8 @@ redirect_from:
 
 **MATH 022: Calculus II** - Lehigh University (Spring 2019, Spring 2020)
 
-**CHM 030: Introduction to Chemical Principles** - Lehigh University (Fall 2018 – Spring 2019)
-
 **MATH 052: Survey of Calculus II** - Lehigh University (Spring 2019)
 
 **MATH 051: Survey of Calculus I** - Lehigh University (Fall 2018)
+
+**CHM 030: Introduction to Chemical Principles** - Lehigh University (Fall 2018 – Spring 2019)
