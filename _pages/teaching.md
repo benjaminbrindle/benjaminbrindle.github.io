@@ -8,7 +8,7 @@ redirect_from:
 
 ## Teaching Assistant
 
-**Python Workshop for PhD Students** - Internship Network in the Mathematical Sciences (INMAS) (Fall 2022 – present)
+**Introductory Python, Statistics, and Machine Learning Workshops for PhD Students** - Internship Network in the Mathematical Sciences (INMAS) (Fall 2022 – present)
 
 **EN.553.692: Mathematical Biology** - Johns Hopkins University (Spring 2022)
 
