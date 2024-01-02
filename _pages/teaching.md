@@ -18,9 +18,9 @@ redirect_from:
 
 **MATH 319: Introduction to Differential Equations** - Lehigh University (Spring 2021)
 
-**MATH 022: Calculus II** - Lehigh University (Spring 2019, Spring 2020)
-
 **MATH 301: Principles of Analysis I** - Lehigh University (Fall 2020)
+
+**MATH 022: Calculus II** - Lehigh University (Spring 2019, Spring 2020)
 
 **MATH 033: Honors Calculus III** - Lehigh University (Fall 2019)
 
