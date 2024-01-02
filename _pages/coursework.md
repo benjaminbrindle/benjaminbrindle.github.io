@@ -15,7 +15,7 @@ Statistical learning theory, including some concentration inequality, generaliza
 Topics in the theory, methods, and applications of machine learning from an explicitly statistical perspective.
 
 **EN.553.740: Machine Learning I** - Johns Hopkins University (Fall 2021) <br>
-Fundamental concepts of machine learning (such as generalization error, Bayes estimators and the bias vs. variance dilemma). Studies a collection of learning algorithms for classification and regression. Linear and kernel regression, support vector machines, lasso, logistic regression, decision trees and neural networks. Includes background material on inner-product spaces, reproducing kernels and on optimization.
+Fundamental concepts of machine learning (such as generalization error, Bayes estimators and the bias vs. variance dilemma). A collection of learning algorithms for classification and regression. Linear and kernel regression, support vector machines, lasso, logistic regression, decision trees and neural networks. Includes background material on inner-product spaces, reproducing kernels and on optimization.
 
 **EN.553.730: Statistical Theory** - Johns Hopkins University (Fall 2021) <br>
 Distribution theory for statistics of normal samples, exponential statistical models, the sufficiency principle, least squares estimation, maximum likelihood estimation, uniform minimum variance unbiased estimation, hypothesis testing, the Neyman-Pearson lemma, likelihood ratio procedures, the general linear model, the Gauss-Markov theorem, simultaneous inference, decision theory, Bayes and minimax procedures, chi-square methods, goodness-of-fit tests, and nonparametric and robust methods.
@@ -24,6 +24,9 @@ Distribution theory for statistics of normal samples, exponential statistical mo
 Introduction to the data mining process including business problem understanding, data understanding and preparation, modeling and evaluation, and model deployment. Emphasis on hands-on data preparation and modeling using techniques from statistics, artificial intelligence, such as regression, decision trees, neural networks, and clustering. A number of application areas are explored.
 
 ## Applications to Medicine and Biology
+
+**EN.553.784: Mathematical Foundations of Computational Anatomy** - Johns Hopkins University (Fall 2023) <br>
+Fundamental concepts and methods that pertain the analysis of the variation of anatomical shapes extracted from medical images. Basic properties of the most important shape representations (landmark, curves, surfaces, images...), distances and discrepancy measures that allow for their comparison, and nonlinear optimal control methods that underlie the Large Deformation Diffeomorphic Metric Mapping (LDDMM) family of registration algorithms. Shape averaging methods and template-centered representations for the analysis of shape datasets.
 
 **EN.553.650: Computational Molecular Medicine** - Johns Hopkins University (Spring 2022) <br>
 Computational systems biology has emerged as the dominant framework for analyzing high-dimensional “omics” data in order to uncover the relationships among molecules, networks and disease. In particular, many of the core methodologies are based on statistical modeling, including machine learning, stochastic processes and statistical inference. We will cover the key aspects of this methodology, including measuring associations, testing multiple hypotheses, and learning predictors, Markov chains and graphical models. In addition, by studying recent important articles in cancer systems biology, we will illustrate how this approach enhances our ability to annotate genomes, discover molecular disease networks, detect disease, predict clinical outcomes, and characterize disease progression.
@@ -43,7 +46,7 @@ Phase space analysis of higher-order systems; equilibrium points, limit cycles, 
 A control system is a dynamical system on which one can act through a parameter that can be chosen freely at any point in time. In this class, we will be interested in two main problems. The first one is controllability, which studies conditions for the existence of controls allowing an initial point to be driven to any other point. The second one is optimal control, in which we will study methods to minimize a certain cost over all possible controls, possibly with endpoint constraints.
 
 **EN.553.701: Real Analysis** - Johns Hopkins University (Fall 2021) <br>
-Fundamental topics in real analysis, such as, Set Theory, The Topology of Euclidean Space, Continuous Mappings, Uniform Convergence, Differentiable Mappings, Inverse & Implicit Function Theorems, Integration Theory, Fourier Series, and Basics of Differential Equations.
+Fundamental topics in real analysis, such as set theory, the topology of Euclidean space, continuous mappings, uniform convergence, differentiable mappings, inverse & implicit function theorems, integration theory, Fourier series, and basics of differential equations.
 
 **MATH 463: Advanced Probability** - Lehigh University (Spring 2021) <br>
 Measure theoretic foundations; random variables, integration in a measure space, expectations; convergence of random variables and probability measures; conditional expectations; characteristic functions; sums of random variables, limit theorems.
@@ -70,7 +73,7 @@ Concept of analytic function from the points of view of the Cauchy–Riemann equ
 Set theory, real numbers; introduction to measures, Lebesgue measure; integration, general convergence theorems; differentiation, functions of bounded variation, absolute continuity; Lp spaces.
 
 **MATH 309: Probability with Applications and Simulations** - Lehigh University (Fall 2019) <br>
-Foundations of Probability; Random Variables; Probability Models; Expectations and Moment Generating Functions; Joint and Conditional Distributions; Functions of Random Variables. Introduction to fundamental ideas and techniques of stochastic modeling, with an emphasis on the applications. Monte Carlo simulation.
+Foundations of probability; random variables; probability models; expectations and moment generating functions; joint and conditional distributions; functions of random variables. Introduction to fundamental ideas and techniques of stochastic modeling, with an emphasis on the applications. Monte Carlo simulation.
 
 **MATH 230: Numerical Methods** - Lehigh University (Fall 2019) <br>
 Representation of numbers and rounding error; polynomial and spline interpolation; numerical differentiation and integration; numerical solution of nonlinear systems; numerical solution of initial and boundary value problems; Monte Carlo methods.
