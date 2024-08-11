@@ -8,7 +8,7 @@ redirect_from:
 
 ## PhD Research at Johns Hopkins University
 
-I am currently working with my advisor Dr. Nicolas Charon on unsupervised clustering methods for datasets of time series of unequal lengths. Publication to follow.
+I am currently working with Dr. Nicolas Charon and Dr. Matteo Malgaroli on unsupervised clustering methods for datasets of time series of unequal lengths and sampling rates. Publication to follow.
 
 ## Undergraduate Research at Lehigh University
 **Senior Thesis**: [_A Mathematical Understanding of Red Blood Cell Dynamics_](/files/Benjamin_Brindle_Thesis.pdf) with Dr. Miranda Teboh-Ewungkem
