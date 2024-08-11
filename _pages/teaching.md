@@ -10,7 +10,7 @@ redirect_from:
 
 **Introductory Python, Statistics, and Machine Learning Workshops for PhD Students** - Internship Network in the Mathematical Sciences (INMAS) (Fall 2022 – present)
 
-**EN.553.391: Dynamical Systems** - Johns Hopkins University (Fall 2024)
+**EN.553.691: Dynamical Systems** - Johns Hopkins University (Fall 2024)
 
 **EN.553.171: Discrete Mathematics** - Johns Hopkins University (Summer 2024)
 
