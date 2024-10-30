@@ -8,7 +8,7 @@ redirect_from:
 
 ## PhD Research at Johns Hopkins University
 
-I am currently working with Dr. Nicolas Charon and Dr. Matteo Malgaroli on unsupervised clustering methods for datasets of time series of unequal lengths and sampling rates. Publication to follow.
+I have recently completed a paper with Nicolas Charon, Matteo Malgaroli, and Derrick Hull on unsupervised clustering methods for datasets of time series of unequal lengths and sampling rates entitled _VISTA-SSM: Varying and Irregular Sampling Time-series Analysis via State Space Models_. The arXiv preprint may be found [here](https://arxiv.org/abs/2410.21527). This work was inspired by many real-world temporal datasets in the psychological sciences where each time series represents observations of an individual patient. Researchers are interested in grouping patients by their mental health status when no direct evaluations of condition exist - leading to an unsupervised approach. In self-reported settings, patients often supply data (through interactions with surveys, wearables, or messages to a provider) in non-uniform periods of time. Interpolating or sub-sampling obfuscates the problem, which is why we chose to develop a new approach to tackle these kinds of clustering problems.
 
 ## Undergraduate Research at Lehigh University
 **Senior Thesis**: [_A Mathematical Understanding of Red Blood Cell Dynamics_](/files/Benjamin_Brindle_Thesis.pdf) with Dr. Miranda Teboh-Ewungkem
