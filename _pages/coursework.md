@@ -8,6 +8,9 @@ redirect_from:
 
 ## Machine Learning and Statistics
 
+**EN.553.796: Random Matrix Theory in Data Science and Statistics** - Johns Hopkins University (Fall 2024) <br>
+Random matrix theory is the study of the eigenvalues and eigenvectors of matrices with random entries — foundational to high-dimensional statistics and data science. Topics include eigenvalue distributions of specially structured ensembles of random matrices, matrix concentration inequalities, and asymptotic and finite-sample results for broad classes of matrices. A core focus is on probability in high dimensions: concentration of measure, the geometry of high-dimensional spaces and convex sets, Gaussian measure, and sharp transitions and threshold phenomena. Applications will feature principal component analysis, network inference, randomized algorithms, optimization, and neural networks.
+
 **EN.553.741: Machine Learning II** - Johns Hopkins University (Spring 2022) <br>
 Statistical learning theory, including some concentration inequality, generalization bounds and VC dimension. Problems and algorithms for unsupervised data analysis, including dimension reduction, manifold learning and clustering.
 
