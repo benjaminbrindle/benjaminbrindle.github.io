@@ -18,6 +18,11 @@ redirect_from:
 
 **EN.553.620: Probability** - Johns Hopkins University (Fall 2021)
 
+## Mentor
+
+**Directed Reading Program** - Johns Hopkins University (Fall 2024)
+* Created curriculum for two undergraduate students to learn about Kalman filter through project- and presentation-based work.
+
 ## Grader
 
 **MATH 319: Introduction to Differential Equations** - Lehigh University (Spring 2021)
