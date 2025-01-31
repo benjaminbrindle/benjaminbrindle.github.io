@@ -8,13 +8,13 @@ redirect_from:
 
 ## Teaching Assistant
 
-**Introductory Python, Statistics, and Machine Learning Workshops for PhD Students** - Internship Network in the Mathematical Sciences (INMAS) (Fall 2022 – present)
+**Introductory Python, Statistics, and Machine Learning Workshops for PhD Students** - Internship Network in the Mathematical Sciences (INMAS) (Fall 2022 – Spring 2025)
 
 **EN.553.691: Dynamical Systems** - Johns Hopkins University (Fall 2024)
 
 **EN.553.171: Discrete Mathematics** - Johns Hopkins University (Summer 2024)
 
-**EN.553.692: Mathematical Biology** - Johns Hopkins University (Spring 2022, Spring 2024)
+**EN.553.692: Mathematical Biology** - Johns Hopkins University (Spring 2022, Spring 2024, Spring 2025)
 
 **EN.553.620: Probability** - Johns Hopkins University (Fall 2021)
 
