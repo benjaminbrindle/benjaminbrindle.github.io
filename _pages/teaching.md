@@ -9,14 +9,20 @@ redirect_from:
 ## Teaching Assistant
 
 **Introductory Python, Statistics, and Machine Learning Workshops for PhD Students** - Internship Network in the Mathematical Sciences (INMAS) (Fall 2022 – Spring 2025)
+* Designed workbooks, fielded students’ questions, and debugged code during weekend-long monthly workshops.
 
 **EN.553.691: Dynamical Systems** - Johns Hopkins University (Fall 2024)
+* Taught weekly discussion sessions for ten students to reinforce key concepts through examples.
 
 **EN.553.171: Discrete Mathematics** - Johns Hopkins University (Summer 2024)
+* Provided daily one-on-one office hours for students in fast-paced summer course.
 
 **EN.553.692: Mathematical Biology** - Johns Hopkins University (Spring 2022, Spring 2024, Spring 2025)
+* Enhanced students’ understanding with detailed solution guides and interactive office hours.
+* Delivered course lectures to class of ten students when instructor was unavailable.
 
 **EN.553.620: Probability** - Johns Hopkins University (Fall 2021)
+* Supervised graduate and undergraduate teaching assistants and assigned grading responsibilities.
 
 ## Mentor
 
