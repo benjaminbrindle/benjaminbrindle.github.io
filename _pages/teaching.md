@@ -22,7 +22,7 @@ redirect_from:
 * Delivered course lectures to class of 10 students when instructor was unavailable.
 
 **EN.553.620: Probability** - Johns Hopkins University (Fall 2021)
-* Supervised graduate and undergraduate teaching assistants and assigned grading responsibilities.
+* Assigned grading responsibilities to 5 graduate and undergraduate teaching assistants. 
 
 ## Mentor
 
