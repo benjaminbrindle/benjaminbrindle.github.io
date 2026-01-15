@@ -8,6 +8,10 @@ redirect_from:
 
 ## Instructor
 
+**EN.553.692: Mathematical Biology** - Johns Hopkins University (Spring 2026)
+* Deliver lectures, create homeworks, quizzes, and exams.
+* Supervise teaching assistants.
+
 **EN.553.513: Directed Reading in Applied Mathematics** - Johns Hopkins University (Fall 2025)
 * Organize Directed Reading program, collaboration between departments of Applied Mathematics & Statistics and Mathematics
 * Pair 16 undergraduate mentees with nine PhD student mentors to explore topics outside standard curriculum.
