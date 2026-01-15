@@ -13,9 +13,9 @@ redirect_from:
 * Supervise teaching assistants.
 
 **EN.553.513: Directed Reading in Applied Mathematics** - Johns Hopkins University (Fall 2025)
-* Organize Directed Reading program, collaboration between departments of Applied Mathematics & Statistics and Mathematics
-* Pair 16 undergraduate mentees with nine PhD student mentors to explore topics outside standard curriculum.
-* Facilitate smooth operations by registering mentees, checking in with mentors and mentees, scheduling final presentations, and assigning final grades.
+* Organized Directed Reading program, collaboration between departments of Applied Mathematics & Statistics and Mathematics
+* Paired 16 undergraduate mentees with nine PhD student mentors to explore topics outside standard curriculum.
+* Facilitated smooth operations by registering mentees, checking in with mentors and mentees, scheduling final presentations, and assigning final grades.
 
 ## Teaching Assistant
 
