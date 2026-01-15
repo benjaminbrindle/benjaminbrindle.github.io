@@ -37,7 +37,7 @@ redirect_from:
 
 ## Mentor
 
-**Directed Reading Program** - Johns Hopkins University (Fall 2024 - present)
+**Directed Reading Program** - Johns Hopkins University (Fall 2024, Fall 2025)
 * Created curriculum for two undergraduate students to learn about Kalman filter through project- and presentation-based work.
 * Created curriculum for seven undergraduate students to practice probability and statistics questions typically
 found in technical interviews in group setting.
