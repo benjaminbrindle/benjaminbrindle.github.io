@@ -9,7 +9,7 @@ redirect_from:
 ## Instructor
 
 **EN.553.692: Mathematical Biology** - Johns Hopkins University (Spring 2026)
-* Deliver lectures, create homeworks, quizzes, and exams.
+* Deliver lectures, create homeworks, quizzes, and exams for a class of 20 students.
 * Supervise teaching assistants.
 
 **EN.553.513: Directed Reading in Applied Mathematics** - Johns Hopkins University (Fall 2025)
