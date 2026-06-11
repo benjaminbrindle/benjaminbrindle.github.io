@@ -8,9 +8,13 @@ redirect_from:
 
 ## Instructor
 
+**EN.553.632: Bayesian Statistics** - Johns Hopkins University (Summer 2026)
+* Deliver lectures, create homeworks and quizzes for class of nine students.
+* Design interactive learning opportunities to enhance student experience during five week course.
+
 **EN.553.692: Mathematical Biology** - Johns Hopkins University (Spring 2026)
-* Deliver lectures, create homeworks, quizzes, and exams for a class of 20 students.
-* Supervise teaching assistants.
+* Deliver lectures, create homeworks, quizzes, and exams for class of 20 students.
+* Supervise two teaching assistants.
 
 **EN.553.513: Directed Reading in Applied Mathematics** - Johns Hopkins University (Fall 2025)
 * Organized Directed Reading program, collaboration between departments of Applied Mathematics & Statistics and Mathematics
